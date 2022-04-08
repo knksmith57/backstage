@@ -6325,9 +6325,9 @@
     "@types/node" "*"
 
 "@types/lodash@^4.14.151", "@types/lodash@^4.14.173", "@types/lodash@^4.14.175":
-  version "4.14.178"
-  resolved "https://registry.npmjs.org/@types/lodash/-/lodash-4.14.178.tgz#341f6d2247db528d4a13ddbb374bcdc80406f4f8"
-  integrity sha512-0d5Wd09ItQWH1qFbEyQ7oTQ3GZrMfth5JkbN3EvTKLXcHLRDSXeLnlvlOn0wvxVIwK5o2M8JzP/OWz7T3NRsbw==
+  version "4.14.181"
+  resolved "https://registry.npmjs.org/@types/lodash/-/lodash-4.14.181.tgz#d1d3740c379fda17ab175165ba04e2d03389385d"
+  integrity sha512-n3tyKthHJbkiWhDZs3DkhkCzt2MexYHXlX0td5iMplyfwketaOeKboEVBqzceH7juqvEg3q5oUoBFxSLu7zFag==
 
 "@types/long@^4.0.0", "@types/long@^4.0.1":
   version "4.0.1"
@@ -6566,12 +6566,12 @@
   resolved "https://registry.npmjs.org/@types/range-parser/-/range-parser-1.2.3.tgz#7ee330ba7caafb98090bece86a5ee44115904c2c"
   integrity sha512-ewFXqrQHlFsgc09MK5jP5iR7vumV/BYayNC6PgJO2LPe8vrnNFyjQjSppfEngITi0qvfKtzFvgKymGheFM9UOA==
 
-"@types/react-dom@*", "@types/react-dom@>=16.9.0":
-  version "17.0.14"
-  resolved "https://registry.npmjs.org/@types/react-dom/-/react-dom-17.0.14.tgz#c8f917156b652ddf807711f5becbd2ab018dea9f"
-  integrity sha512-H03xwEP1oXmSfl3iobtmQ/2dHF5aBHr8aUMwyGZya6OW45G+xtdzmq6HkncefiBt5JU8DVyaWl/nWZbjZCnzAQ==
+"@types/react-dom@*", "@types/react-dom@>=16.9.0", "@types/react-dom@^17":
+  version "17.0.15"
+  resolved "https://registry.npmjs.org/@types/react-dom/-/react-dom-17.0.15.tgz#f2c8efde11521a4b7991e076cb9c70ba3bb0d156"
+  integrity sha512-Tr9VU9DvNoHDWlmecmcsE5ZZiUkYx+nKBzum4Oxe1K0yJVyBlfbq7H3eXjxXqJczBKqPGq3EgfTru4MgKb9+Yw==
   dependencies:
-    "@types/react" "*"
+    "@types/react" "^17"
 
 "@types/react-helmet@^6.1.0":
   version "6.1.5"
@@ -6639,7 +6639,7 @@
   dependencies:
     "@types/react" "*"
 
-"@types/react@*", "@types/react@>=16.9.0", "@types/react@^16.13.1 || ^17.0.0", "@types/react@^17.0.39":
+"@types/react@*", "@types/react@>=16.9.0", "@types/react@^16.13.1 || ^17.0.0", "@types/react@^17":
   version "17.0.44"
   resolved "https://registry.npmjs.org/@types/react/-/react-17.0.44.tgz#c3714bd34dd551ab20b8015d9d0dbec812a51ec7"
   integrity sha512-Ye0nlw09GeMp2Suh8qoOv0odfgCoowfM/9MG6WeRD60Gq9wS90bdkdRtYbRkNhXOpG4H+YXGvj4wOWhAC0LJ1g==
